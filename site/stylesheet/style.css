@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
 }
 
-h2{
+.menu-item{
 	position: relative;
 	float: right;
 	clear: left;
