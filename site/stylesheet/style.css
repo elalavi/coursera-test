@@ -6,6 +6,11 @@ body {
   box-sizing: border-box;
 }
 
+h2{
+	position: relative;
+	float: right;
+	clear: left;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
