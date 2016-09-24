@@ -10,12 +10,22 @@ h1{
 	text-align: center;
 }
 
-.section{
+.row div{
 	background-color: #E0D8E0;
 	border: 1px solid black;
 	position: relative;
 	margin-right: 15px;
 	margin-left; auto;
+	margin-bottom: 15px;
+	padding: 40px 20px 20px 20px;
+}
+
+.section{
+	background-color: #E0D8E0;
+	border: 1px solid black;
+	position: relative;
+	margin-right: 15px;
+	margin-left; 15px;
 	margin-bottom: 15px;
 	padding: 40px 20px 20px 20px;
 	overflow: hidden;
