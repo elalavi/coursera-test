@@ -6,8 +6,21 @@ body {
   box-sizing: border-box;
 }
 
-.menu-item{
+.section{
+	background-color: #E0D8E0;
+	border: 1px solid black;
 	position: relative;
+	margin-right: 15px auto 15px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.menu-item{
+	position: absolute;
+	background-color: #D0A020;
+	border: 1px solid black;
+	width: 170px;
+	margin-top: -13px;
 	float: right;
 	clear: left;
 }
