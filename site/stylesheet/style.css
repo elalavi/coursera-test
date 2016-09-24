@@ -20,7 +20,7 @@ h2{
 	border: 1px solid black;
 	position: absolute;
 	color: white;
-	margin-top: -13px;
+	margin-top: -31px;
 	right: -1px;
     width: 170px;
     text-align: center;
@@ -29,6 +29,14 @@ h2{
 
 .chicken{
 	background-color: #D0A020;
+}
+
+beef{
+	background-color: #D05860;
+}
+
+sushi{
+	ackground-color: #609020;
 }
 
 /* Simple Responsive Framework. */
