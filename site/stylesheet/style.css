@@ -8,10 +8,11 @@ body {
 
 h1{
 	text-align: center;
+	margin: 20px 20px 30px 20px;
 }
 
 .row div{
-	
+	padding-right: 15px;
 }
 
 .section{
@@ -22,6 +23,7 @@ h1{
 	margin-left; auto;
 	margin-bottom: 15px;
 	padding: 40px 20px 20px 20px;
+	overflow: hidden;
 }
 
 h2{
