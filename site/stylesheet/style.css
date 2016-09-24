@@ -6,6 +6,10 @@ body {
   box-sizing: border-box;
 }
 
+h1{
+	text-align: center;
+}
+
 .section{
 	background-color: #E0D8E0;
 	border: 1px solid black;
