@@ -8,10 +8,11 @@ body {
 
 h1{
 	text-align: center;
+	margin: 40px 0px 20px 0px;
 }
 
 .row{
-	padding-right: 15px;
+	padding-left: 15px;
 }
 
 .section{
