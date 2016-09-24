@@ -15,15 +15,16 @@ body {
 	overflow: hidden;
 }
 
-.menu-item{
-	position: absolute;
-	background-color: #D0A020;
+h2{
 	border: 1px solid black;
-	width: 170px;
-	margin-top: -13px;
-	float: right;
-	clear: left;
+	position: absolute;
+	color: white;
 }
+
+.chicken{
+	background-color: #D0A020;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
