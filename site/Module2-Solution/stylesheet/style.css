@@ -32,7 +32,7 @@ a h2{
 	position: absolute;
 	text-decoration: none;
 	color: white;
-	font-size: 125% bold;
+	font-size: 125%;
 	margin-top: -41px;
 	right: -1px;
     width: 170px;
@@ -40,15 +40,15 @@ a h2{
     padding: 5px;
 }
 
-.chicken{
+a.chicken{
 	background-color: #D0A020;
 }
 
-.beef{
+a.beef{
 	background-color: #D05860;
 }
 
-.sushi{
+a.sushi{
 	background-color: #609020;
 }
 
