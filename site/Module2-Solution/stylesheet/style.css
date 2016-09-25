@@ -27,7 +27,7 @@ h1{
 	overflow: hidden;
 }
 
-a{
+a h2{
 	border: 1px solid black;
 	position: absolute;
 	text-decoration: none;
