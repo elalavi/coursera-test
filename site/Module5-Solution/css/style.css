@@ -15,7 +15,7 @@ body {
 }
 
 #logo-img {
-    background-image: url('../img/restaurant-logo.png');
+    background-image: url('../images/restaurant-logo.png');
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -120,12 +120,12 @@ body {
     }
 
 #menu-tile {
-    background: url('../img/menu-tile.jpg') no-repeat;
+    background: url('../images/menu-tile.jpg') no-repeat;
     background-position: center;
 }
 
 #specials-tile {
-    background: url('../img/specials-tile.jpg') no-repeat;
+    background: url('../images/specials-tile.jpg') no-repeat;
     background-position: center;
 }
 
